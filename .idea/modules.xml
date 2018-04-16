@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EditTextUtils.iml" filepath="$PROJECT_DIR$/EditTextUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Victor\AndroidStudioProjects\EditTextUtils\nativesyntax\edittextutilslib.iml" filepath="C:\Users\Victor\AndroidStudioProjects\EditTextUtils\nativesyntax\edittextutilslib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativesyntax/nativesyntax.iml" filepath="$PROJECT_DIR$/nativesyntax/nativesyntax.iml" />
+    </modules>
+  </component>
+</project>
